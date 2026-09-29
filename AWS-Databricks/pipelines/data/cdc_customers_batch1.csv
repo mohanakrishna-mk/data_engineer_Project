@@ -1,0 +1,5 @@
+op,ts_ms,__deleted,customer_id,customer_name,email,customer_tier,city
+c,1706745600010,false,C001,Alice Johnson,alice@example.com,Gold,New York
+c,1706745600011,false,C002,Bob Smith,bob@example.com,Silver,Chicago
+c,1706745600012,false,C003,Carol White,carol@example.com,Bronze,Houston
+c,1706745600013,false,C004,David Lee,david@example.com,Gold,Seattle

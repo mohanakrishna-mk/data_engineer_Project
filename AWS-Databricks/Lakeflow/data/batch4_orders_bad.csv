@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,status,quantity,unit_price,discount_code
+1019,C003,2024-01-23,completed,two,30.00,

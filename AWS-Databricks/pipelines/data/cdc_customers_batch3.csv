@@ -1,0 +1,2 @@
+op,ts_ms,__deleted,customer_id,customer_name,email,customer_tier,city
+u,1706918400010,false,C004,David Lee,david.lee@example.com,Platinum,Seattle

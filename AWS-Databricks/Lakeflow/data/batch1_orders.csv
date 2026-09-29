@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,status,quantity,unit_price
+1010,C002,2024-01-20,completed,2,49.99
+1011,C006,2024-01-20,completed,1,129.00
+1012,C003,2024-01-20,pending,3,19.99
+1013,C007,2024-01-20,completed,1,79.50

@@ -1,0 +1,7 @@
+op,ts_ms,__deleted,order_id,customer_id,order_date,status,amount,product_category
+c,1706918400001,false,ORD-007,C001,2024-03-01,completed,150.00,Electronics
+c,1706918400002,false,ORD-008,C004,2024-03-01,completed,200.00,Home
+c,1706918400003,false,ORD-009,C002,2024-03-02,completed,75.50,Clothing
+c,1706918400004,false,ORD-010,C001,2024-03-02,completed,320.00,Electronics
+c,1706918400005,false,ORD-011,C004,2024-03-03,completed,95.00,Books
+c,1706918400006,false,ORD-012,C002,2024-03-03,completed,410.00,Electronics
